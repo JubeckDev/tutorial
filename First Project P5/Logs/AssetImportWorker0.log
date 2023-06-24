@@ -202,3 +202,11 @@ Received Import Request.
 Start importing Assets/Sphere.mat using Guid(82c0c12749f194d3ea5bbdb72cfdbc2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6810bc3d43dfe576d50de3f0518595be') in 0.012572 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 13319.508697 seconds.
+  path: Assets/NewScript.cs
+  artifactKey: Guid(6442b05c44e7f4071abe69a3e70065b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewScript.cs using Guid(6442b05c44e7f4071abe69a3e70065b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4644f73a083aca537e8559b69b20aeee') in 0.077171 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
